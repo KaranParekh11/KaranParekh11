@@ -38,12 +38,12 @@
 
 
 <div align="center" >
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KaranParekh11&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=shades-of-purple&icon_color=fad000" alt="karan's GitHub Stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=karanparekh11&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=shades-of-purple&icon_color=fad000" alt="karan's GitHub Stats">
  
  </div>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KaranParekh11&count_private=true&include_all_commits=true&theme=radical" alt="KaranParekh11" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanparekh11&count_private=true&include_all_commits=true&theme=radical" alt="KaranParekh11" />
 
 -----
 
 
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranParekh11&count_private=true&include_all_commits=true&theme=radical" alt="KaranParekh11" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanparekh11&count_private=true&include_all_commits=true&theme=radical" alt="KaranParekh11" />
