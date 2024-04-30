@@ -12,7 +12,7 @@
 <br />
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+backend+developer+and+AI+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=500&lines=I+am+backend+developer+and+AI+Engineer)](https://git.io/typing-svg)
 
 <!-- **About Me!**
 
